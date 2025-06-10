@@ -1,3 +1,3 @@
 # Beanies Guitar Chords Detection
-app : https://huggingface.co/spaces/halfsummerraly/guitar-chords-detection/tree/main
+app : https://huggingface.co/spaces/halfsummerraly/guitar-chords-detection/tree/main  
 blog : https://medium.com/@halfsummerraly/guitar-chords-detection-2685748cfc27
